@@ -103,9 +103,7 @@ Suggestions are welcome. Feel free to contact us at :
 +91-9953618688
 
 
-View Demo Video Here:
-
-[![Raseed Application]](https://www.youtube.com/watch?v=rnOrtkwLzlw)
+View Demo Video Here:  [Raseed Application](https://www.youtube.com/watch?v=rnOrtkwLzlw)
 
 These are some snapshots of the demo video of the application:
 
