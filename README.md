@@ -105,7 +105,7 @@ Suggestions are welcome. Feel free to contact us at :
 
 View Demo Video Here:
 
-[![Raseed Application](https://img.youtube.com/vi/https://www.youtube.com/watch?v=rnOrtkwLzlw/0.jpg)](https://www.youtube.com/watch?v=rnOrtkwLzlw)
+[![Raseed Application]](https://www.youtube.com/watch?v=rnOrtkwLzlw)
 
 These are some snapshots of the demo video of the application:
 
