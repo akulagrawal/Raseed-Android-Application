@@ -103,7 +103,9 @@ Suggestions are welcome. Feel free to contact us at :
 +91-9953618688
 
 
-View Demo Video Here: [![Raseed Application](https://img.youtube.com/vi/https://www.youtube.com/watch?v=rnOrtkwLzlw/0.jpg)](https://www.youtube.com/watch?v=rnOrtkwLzlw)
+View Demo Video Here:
+
+[![Raseed Application](https://img.youtube.com/vi/https://www.youtube.com/watch?v=rnOrtkwLzlw/0.jpg)](https://www.youtube.com/watch?v=rnOrtkwLzlw)
 
 These are some snapshots of the demo video of the application:
 
@@ -111,38 +113,38 @@ These are some snapshots of the demo video of the application:
 On the left hand is the merchant while on the right side is the customer
 
 
-The first page:
+Snap 1:
 ![Snap 1](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(40).png)
 
-The second page:
+Snap 2:
 ![Snap 2](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(41).png)
 
-The third page:
+Snap 3:
 ![Snap 3](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(42).png)
 
-The fourth page:
+Snap 4:
 ![Snap 4](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(43).png)
 
-The fifth page:
+Snap 5:
 ![Snap 5](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(44).png)
 
-The sixth page:
+Snap 6:
 ![Snap 6](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(45).png)
 
-The seventh page:
+Snap 7:
 ![Snap 7](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(46).png)
 
-The eighth page:
+Snap 8:
 ![Snap 8](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(47).png)
 
-The ninth page:
+Snap 9:
 ![Snap 9](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(48).png)
 
-The tenth page:
+Snap 10:
 ![Snap 10](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(49).png)
 
-The eleventh page:
+Snap 11:
 ![Snap 11](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(50).png)
 
-The twelfth page:
+Snap 12:
 ![Snap 12](https://github.com/akulagrawal/Raseed-Android-Application/blob/master/Screenshots/Screenshot%20(51).png)
